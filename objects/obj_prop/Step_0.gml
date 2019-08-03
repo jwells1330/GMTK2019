@@ -1,0 +1,1 @@
+if (instance_position(x, y, obj_platform) != noone) current_platform = (instance_position(x, y, obj_platform));

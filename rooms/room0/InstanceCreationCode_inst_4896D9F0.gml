@@ -1,0 +1,1 @@
+ds_list_add(connected_props, inst_47B4687A, inst_5C8C5C21, inst_1EA03AA7);
